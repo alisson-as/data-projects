@@ -18,6 +18,6 @@ I also seek to apply concepts of time management and productivity, through the u
 * <a href="https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120">LinkedIn</a>
 
 
-## Projetos:
+## Projects:
 
-* **Projeto - Assistente para Pesquisa:** <a href="https://github.com/alisson-as/imersion_alura_final_project">Your Research Helper</a>
+* **Research Assistant:** <a href="https://github.com/alisson-as/imersion_alura_final_project">Your Research Helper</a>
