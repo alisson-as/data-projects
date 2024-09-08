@@ -3,7 +3,7 @@
 </p>
 
 # Alisson Aragão dos Santos
-<sub>*BI and MIS Analyst*</sub>
+<sub>*Data Analyst*</sub>
 
 Enthusiastic about technology and always studying relevant topics in the area.
 
@@ -12,12 +12,12 @@ In addition to always seeking to develop new hard skills, I believe it is also i
 
 I also seek to apply concepts of time management and productivity, through the use of planers, task listing tools, methodologies for prioritizing tasks and a sense of organization of demands during the day to day.
 
-**Background in:** Power BI, Python, SQL, SSIS e Analytical Ability
+**Background in:** Analytical Ability, Power BI, Python, SQL e Excel
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120/)
+* <a href="https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120">LinkedIn</a>
 
 
 ## Projetos:
 
-* **xxxxxxx:** xxxxx
+* **Projeto - Assistente para Pesquisa:** <a href="https://github.com/alisson-as/imersion_alura_final_project">Your Research Helper</a>
