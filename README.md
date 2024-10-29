@@ -21,3 +21,4 @@ I also seek to apply concepts of time management and productivity, through the u
 ## Projects:
 
 * **Research Assistant:** <a href="https://github.com/alisson-as/imersion_alura_final_project">Your Research Helper</a>
+* **Forecast Time Series with ARIMA and Random Forest:** <a href="https://github.com/alisson-as/project-tcc">Your Research Helper</a>
