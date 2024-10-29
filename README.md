@@ -3,22 +3,22 @@
 </p>
 
 # Alisson Aragão dos Santos
-<sub>*Data Analyst*</sub>
+<sub>*Analista de Dados*</sub>
 
-Enthusiastic about technology and always studying relevant topics in the area.
+Entusiasta por tecnologia e sempre estudando temas relevantes na área.
 
-I currently work in the data area and I am always looking to improve myself in tools and methodologies that improve and/or automate the processes that I am inserted.
-In addition to always seeking to develop new hard skills, I believe it is also important to develop interpersonal skills, which is why, during my professional work, I seek to improve my communication, based on exposing my opinions in order to generate productive discussions with colleagues. work, resulting in the practice of this skill.
+Atualmente atuo na área de dados e estou sempre em busca de me aprimorar em ferramentas e metodologias que melhorem e/ou automatizem os processos que estou inserido.
+Além de buscar sempre desenvolver novas hard skills, acredito que também seja importante desenvolver habilidades interpessoais, por isso, durante meu trabalho profissional, procuro melhorar minha comunicação, a partir da exposição de minhas opiniões, a fim de gerar discussões produtivas com colegas. trabalho, resultando na prática desta habilidade.
 
-I also seek to apply concepts of time management and productivity, through the use of planers, task listing tools, methodologies for prioritizing tasks and a sense of organization of demands during the day to day.
+Busco também aplicar conceitos de gestão de tempo e produtividade, através da utilização de planners, ferramentas de listagem de tarefas, metodologias de priorização de tarefas e senso de organização de demandas durante o dia a dia.
 
-**Background in:** Analytical Ability, Power BI, Python, SQL e Excel
+**Background:** Habilidade analíticas, Power BI, Python, SQL e Excel
 
 **Links:**
 * <a href="https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120">LinkedIn</a>
 
 
-## Projects:
+## Projetos:
 
 * **Research Assistant:** <a href="https://github.com/alisson-as/imersion_alura_final_project">Your Research Helper</a>
-* **Forecast Time Series with ARIMA and Random Forest:** <a href="https://github.com/alisson-as/project-tcc">Forecast Time Series</a>
+* **Previsão Séries Temporais com ARIMA e Random Forest:** <a href="https://github.com/alisson-as/project-tcc">Previsão com Séries Temporais</a>
